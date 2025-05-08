@@ -59,4 +59,4 @@ Or send a message via the contact form on the website.
 
 ## License
 
-This portfolio is available under the [MIT License](LICENSE). You are welcome to fork and customize it for your own use.
+This portfolio is available under the [License](LICENSE). Read the licence before fork and customize it for your own use.
